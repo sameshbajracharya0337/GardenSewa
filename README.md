@@ -18,15 +18,22 @@ Garden Sewa is a React Native mobile application tailored for plant lovers in Ne
 
 # Tech Stack
 -**Framework**: React Native
+
 -**Icons**: React Native Vector Icons (Ionicons, MaterialIcons)
+
 -**Styling**: React Native StyleSheet
+
 -**Components**: Custom reusable components (e.g., ProductCard, SearchBar, ServiceCard)
+
 -**Navigation**: Custom navigation with AppNavigator and BottomTabNavigator
 
 ## Dependencies
 -@expo/vector-icons
+
 -expo-linear-gradient
+
 -react-native
+
 See `package.json` for full list.
 
 # Project Structure
@@ -109,11 +116,17 @@ Scan the QR code with the Expo Go app on your iOS or Android device, or run in a
 
 ## Usage
 -Home Screen: View featured plants, services, and reviews with a search bar and promotional banner.
+
 -Category Screen: Browse plant categories (Indoor, Outdoor, Rare) with filtering options.
+
 -Plant Detail Screen: Access detailed information about a selected plant, including price, rating, and tags.
+
 -Add New Screen: Options to add plants, services, request help, or join as a gardener.
+
 -About Us Screen: Learn about Garden Sewa's mission and features.
+
 -Contact Screen: Submit inquiries or view contact information.
+
 -Navigation: Use the bottom tab bar to switch between Home, Category, About, and Contact, with a floating button for adding new content.
 
 # Mock Data
@@ -122,8 +135,11 @@ The app uses mock data (src/data/mockData.js) for plants, services, reviews, and
 
 ## Future Enhancements
 -Integrate a backend API for dynamic data fetching.
+
 -Implement user authentication and profile management.
+
 -Add cart and checkout functionality.
+
 -Enhance search with advanced filtering and sorting.
 -Introduce push notifications for order updates.
 
