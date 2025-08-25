@@ -3,11 +3,17 @@ Garden Sewa is a React Native mobile application tailored for plant lovers in Ne
 
 ## Features
 -**Browse Plants**: Explore indoor, outdoor, and rare plants with detailed product information.
+
 -**Gardening Services**: Access professional gardening services with easy booking options.
+
 -**Search and Filter**: Search for plants or services and filter by categories like New, Popular, or Best Seller.
+
 -**Product Details**: View comprehensive details for each plant, including price, rating, and description.
+
 -**Contact Support**: Reach out via a contact form or provided contact information.
+
 -**User Navigation**: Intuitive bottom tab navigation with a floating action button for adding new plants or services.
+
 -**Responsive Design**: Optimized for both iOS and Android devices with a visually appealing UI.
 
 # Tech Stack
